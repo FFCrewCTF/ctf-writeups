@@ -1,4 +1,4 @@
-# Lockpicking (for, 350 points, solved by ??)
+# Lockpicking (for, 350 points, solved by 4)
 
 ## Challenge
 

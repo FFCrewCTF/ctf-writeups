@@ -5,6 +5,6 @@ Team: FFCrew
 
 ## Contents
 
-* Misc
+* Forensics
    * [Double Agent (for 250)](for_250)
    * [Lockpicking (for 350)](for_350)

@@ -1,4 +1,4 @@
-# Double Agent (for, 250 points, solved by ??)
+# Double Agent (for, 250 points, solved by 24)
 
 ## Challenge
 
