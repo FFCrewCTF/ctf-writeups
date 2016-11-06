@@ -10,8 +10,6 @@
 > author's irc nick: Lense
 > 
 > EDIT: We provided the font. You do not need to go to any website to solve this.
-> 
-> Inspired by http://www.sansbullshitsans.com
 
 
 ## Solution
@@ -20,7 +18,8 @@ On initial inspection in a font viewer, there are some extra glyphs in the unico
 
 ![](./font_viewer.png)
 
-The "inspired by" link references ligatures, so let's check the ligatures in font forge.
+Those glyphs are not likely to show up in everyday writings, perhaps there is another way for the font to make them show up in average text?
+Checking some things in font forge eventually reveals:
 
 ![](./font_forge.png)
 
