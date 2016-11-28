@@ -34,7 +34,7 @@ PKCS12 key store mac invalid - wrong password or corrupted file.
 PKCS12 key store mac invalid - wrong password, wrong LSSO secret (username + hostname) or corrupted file.
 ```
 
-Because this is an LSSO, we need a username a password. 
+Because this is an LSSO, we need a username and hostname. 
 ``` bash
 $ unrar v ekochall.rar
 

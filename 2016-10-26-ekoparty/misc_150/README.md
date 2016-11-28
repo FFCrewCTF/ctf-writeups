@@ -13,7 +13,7 @@ The linked website has an input labeled "Gimme a IP where I will send the flag".
 Entering an IP we control and running tcpdump reveals the website is trying to connect on port 6000.
 Furthermore, opening port 6000 with netcat and trying again reveals that the website is trying to make a connection using [X11](https://en.wikipedia.org/wiki/X_Window_System). 
 
-Instead of installing the full X server software and remoting accessing the display of our vps, we can simply fake it!
+Instead of installing the full X server software and remote accessing the display of our vps, we can simply fake it!
 ``` bash
 # Install and run Xvfb ("Virtual Framebuffer 'fake' X server")
 sudo apt-get install Xvfb

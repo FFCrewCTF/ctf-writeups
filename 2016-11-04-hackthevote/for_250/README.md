@@ -14,11 +14,11 @@
 
 ## Solution
 
-On initial inspection in a font viewer, there are some extra glyphs in the unicode section, but not in the write order.
+On initial inspection in a font viewer, there are some extra glyphs in the unicode section, but not in the right order.
 
 ![](./font_viewer.png)
 
-Those glyphs are not likely to show up in everyday writings, perhaps there is another way for the font to make them show up in average text?
+Those glyphs are not likely to show up in everyday writings, perhaps there is another way for the font to make them show up in "normal" text?
 Checking some things in font forge eventually reveals:
 
 ![](./font_forge.png)
